@@ -16,7 +16,7 @@
 
 💬 Ask me about **Web & Application Development**
 
-📫 How to reach me **maleeshasanjanadilshan@gmail.com**
+📫 How to reach me
  
  </div>
  
