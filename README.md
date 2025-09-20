@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🌱 I’m currently learning **Dart, HTML, CSS, C**
+🌱 I’m currently learning **Dart, React Vite, C , Java, JavaScript,  HTML, CSS, C**
 
-🤝 I’m an Undergraduate student at **CINEC Campus**
+🤝 I’m an Undergraduate Student at **CINEC Campus**
 
 💬 Ask me about **Web & Application Development**
 
